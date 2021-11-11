@@ -1,0 +1,35 @@
+body {
+  background-color: turquoise;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.App {
+  text-align: center;
+}
+.forms {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.forms input {
+  background-color: orange;
+  height: 20px;
+  width: 200px;
+  border: none;
+  margin-top: 6%;
+}
+
+.card {
+  background-color: palegoldenrod;
+}
+
+button {
+  cursor: pointer;
+  background-color: orange;
+  border: none;
+  width: 200px;
+}
+#terms {
+  cursor: pointer;
+}
